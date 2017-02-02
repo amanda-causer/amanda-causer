@@ -1,0 +1,16 @@
+# Jekyll configuration
+
+name: amandacauser-com
+description: The Mandy's Millinery website by Amanda Causer
+author:
+  name: Mike Causer
+  email: mcauser@gmail.com
+
+url: http://amanda-causer.github.io/amandacauser-com
+
+exclude: [".ruby-version", "Gemfile", "Gemfile.lock", "README.md"]
+
+sass:
+  style: compressed
+
+encoding: utf-8
